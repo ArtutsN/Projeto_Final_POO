@@ -6,6 +6,7 @@ Projeto marketplace POO
 
 - Java JDK 8 ou superior instalado
 - Mysql workbench
+- De preferencia utilize o Eclipse
 
 ## Instalação
 
