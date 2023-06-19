@@ -1,0 +1,1 @@
+CREATE SCHEMA `marketing_place_final` ;
