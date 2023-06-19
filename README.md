@@ -10,9 +10,9 @@ Projeto marketplace POO
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
-2. Navegue até o diretório do projeto: `cd nome-do-projeto`
-3. Compile o projeto: `javac MeuPrograma.java`
+1. Clone o repositório: `https://github.com/ArtutsN/Projeto_Final_POO`
+2. Navegue até o diretório do projeto: `Projeto_Faculdade`
+3. Compile o projeto: `Projeto_Faculdade`
 4. depois de compilado abra o arquivo .sql e execute todas as linhas dele, após essa execução, esta livre para mexer.
 
 ## Execução
